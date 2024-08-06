@@ -30,7 +30,7 @@ SECRET_KEY = 'django-insecure-qdfasa*m_szfalavi%jejj)%*&276ft%3cs7g638$i*v3(zy65
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["*"]
+ALLOWED_HOSTS = ["www.clencylogistics.ca", "clencylogistics.ca", "*"]
 
 
 # Application definition

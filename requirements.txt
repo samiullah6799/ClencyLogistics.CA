@@ -4,3 +4,5 @@ validate_email
 Pillow
 django==4.1.5
 mysqlclient
+psycopg2
+whitenoise
